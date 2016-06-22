@@ -13,7 +13,7 @@
   * Materialize: [http://materializecss.com/](http://materializecss.com/)
 
 #### B. Back-end intro (серверная часть, база данных, валидация и обработка запросов): 
-* Server-side Development with NodeJS: [https://www.coursera.org/learn/server-side-developmen/home/welcome]
+* Server-side Development with NodeJS: [https://www.coursera.org/learn/server-side-developmen/home/welcome](https://www.coursera.org/learn/server-side-developmen/home/welcome)
 * More NodeJS: [https://nodejs.org/en/docs/guides/](https://nodejs.org/en/docs/guides/)
 * Express framework: [http://expressjs.com/ru/](http://expressjs.com/ru/)
 * mongoDB:
