@@ -1,40 +1,40 @@
 # JavaScript Full Stack
 
 #### A. Front-end intro (клиентская часть, браузер, отображение данных, отправка запросов и получение ответов сервера): 
-* HTML, CSS, JavaScript: <a href="https://www.coursera.org/learn/html-css-javascript/home/welcome" target="_blank">https://www.coursera.org/learn/html-css-javascript/home/welcome</a>
-* Web frameworks: <a href="https://www.coursera.org/learn/web-frameworks/home/welcome" target="_blank">https://www.coursera.org/learn/web-frameworks/home/welcome</a>
-* HTML & CSS: <a href="https://www.codecademy.com/learn/web" target="_blank">https://www.codecademy.com/learn/web</a> 
-* JavaScript: <a href="https://www.codecademy.com/learn/javascript" target="_blank">https://www.codecademy.com/learn/javascript</a>
-* jQuery: <a href="https://www.codecademy.com/learn/jquery" target="_blank">https://www.codecademy.com/learn/jquery</a>
-* Make a Website: <a href="https://www.codecademy.com/learn/make-a-website" target="_blank">https://www.codecademy.com/learn/make-a-website</a>
-* Make an Interactive Website: <a href="https://www.codecademy.com/en/skills/make-an-interactive-website" target="_blank">https://www.codecademy.com/en/skills/make-an-interactive-website</a>
+* HTML, CSS, JavaScript: [https://www.coursera.org/learn/html-css-javascript/home/welcome](https://www.coursera.org/learn/html-css-javascript/home/welcome)
+* Web frameworks: [https://www.coursera.org/learn/web-frameworks/home/welcome](https://www.coursera.org/learn/web-frameworks/home/welcome)
+* HTML & CSS: [https://www.codecademy.com/learn/web](https://www.codecademy.com/learn/web) 
+* JavaScript: [https://www.codecademy.com/learn/javascript](https://www.codecademy.com/learn/javascript)
+* jQuery: [https://www.codecademy.com/learn/jquery](https://www.codecademy.com/learn/jquery)
+* Make a Website: [https://www.codecademy.com/learn/make-a-website](https://www.codecademy.com/learn/make-a-website)
+* Make an Interactive Website: [https://www.codecademy.com/en/skills/make-an-interactive-website](https://www.codecademy.com/en/skills/make-an-interactive-website)
 * More styling: 
-  * Bootstrap: <a href="http://getbootstrap.com/" target="_blank">http://getbootstrap.com/</a>
-  * Materialize: <a href="http://materializecss.com/" target="_blank">http://materializecss.com/</a>
+  * Bootstrap: [http://getbootstrap.com/](http://getbootstrap.com/)
+  * Materialize: [http://materializecss.com/](http://materializecss.com/)
 
-#### B. Back-end intro (серверная часть, база данных, валидация и обработка запросов</a>: 
-* Server-side Development with NodeJS: <a href="https://www.coursera.org/learn/server-side-developmen/home/welcome" target="_blank">https://www.coursera.org/learn/server-side-developmen/home/welcome</a>
-* More NodeJS: <a href="https://nodejs.org/en/docs/guides/" target="_blank">https://nodejs.org/en/docs/guides/</a>
-* Express framework: <a href="http://expressjs.com/ru/" target="_blank">http://expressjs.com/ru/</a>
+#### B. Back-end intro (серверная часть, база данных, валидация и обработка запросов): 
+* Server-side Development with NodeJS: [https://www.coursera.org/learn/server-side-developmen/home/welcome](https://www.coursera.org/learn/server-side-developmen/home/welcome)
+* More NodeJS: [https://nodejs.org/en/docs/guides/](https://nodejs.org/en/docs/guides/)
+* Express framework: [http://expressjs.com/ru/](http://expressjs.com/ru/)
 * mongoDB:
-  * Getting started: <a href="https://docs.mongodb.com/getting-started/node/" target="_blank">https://docs.mongodb.com/getting-started/node/</a>
-  * Mongoose: <a href="http://mongoosejs.com/" target="_blank">http://mongoosejs.com/</a>
-  * Node.js api v2.0: <a href="http://mongodb.github.io/node-mongodb-native/2.0/api/index.html" target="_blank">http://mongodb.github.io/node-mongodb-native/2.0/api/index.html</a>
+  * Getting started: [https://docs.mongodb.com/getting-started/node/](https://docs.mongodb.com/getting-started/node/)
+  * Mongoose: [http://mongoosejs.com/](http://mongoosejs.com/)
+  * Node.js api v2.0: [http://mongodb.github.io/node-mongodb-native/2.0/api/index.html](http://mongodb.github.io/node-mongodb-native/2.0/api/index.html)
 
-* NGINX: <a href="https://nginx.org/ru/docs/" target="_blank">https://nginx.org/ru/docs/</a>
+* NGINX: [https://nginx.org/ru/docs/](https://nginx.org/ru/docs/)
 
 #### C. Git and Github:
-* How to: <a href="https://www.udacity.com/course/how-to-use-git-and-github--ud775" target="_blank">https://www.udacity.com/course/how-to-use-git-and-github--ud775</a>
-* Github guides: <a href="https://guides.github.com/" target="_blank">https://guides.github.com/</a>
+* How to: [https://www.udacity.com/course/how-to-use-git-and-github--ud775](https://www.udacity.com/course/how-to-use-git-and-github--ud775)
+* Github guides: [https://guides.github.com/](https://guides.github.com/)
 
 #### D. New horizons:
-* JavaScript es6(2015): <a href="http://es6-features.org/" target="_blank">http://es6-features.org/</a>
-* NodeJS with es6: <a href="https://nodejs.org/en/docs/es6/" target="_blank">https://nodejs.org/en/docs/es6/</a>
-* Babel: <a href="https://babeljs.io/" target="_blank">https://babeljs.io/</a>
-* React: <a href="https://facebook.github.io/react/" target="_blank">https://facebook.github.io/react/</a>
-* FLUX: <a href="http://blog.andrewray.me/flux-for-stupid-people/" target="_blank">http://blog.andrewray.me/flux-for-stupid-people/</a>
-* Redux: <a href="https://egghead.io/series/getting-started-with-redux" target="_blank">https://egghead.io/series/getting-started-with-redux</a>
-* Material-UI: <a href="http://www.material-ui.com" target="_blank">http://www.material-ui.com</a>
-* REST: <a href="http://www.restapitutorial.com/" target="_blank">http://www.restapitutorial.com/</a>
+* JavaScript es6(2015): [http://es6-features.org/](http://es6-features.org/)
+* NodeJS with es6: [https://nodejs.org/en/docs/es6/](https://nodejs.org/en/docs/es6/)
+* Babel: [https://babeljs.io/](https://babeljs.io/)
+* React: [https://facebook.github.io/react/](https://facebook.github.io/react/)
+* FLUX: [http://blog.andrewray.me/flux-for-stupid-people/](http://blog.andrewray.me/flux-for-stupid-people/)
+* Redux: [https://egghead.io/series/getting-started-with-redux](https://egghead.io/series/getting-started-with-redux)
+* Material-UI: [http://www.material-ui.com](http://www.material-ui.com)
+* REST: [http://www.restapitutorial.com/](http://www.restapitutorial.com/)
 
 #...
