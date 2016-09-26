@@ -19,7 +19,7 @@
 * mongoDB:
   * Getting started: [https://docs.mongodb.com/getting-started/node/](https://docs.mongodb.com/getting-started/node/)
   * Mongoose: [http://mongoosejs.com/](http://mongoosejs.com/)
-  * Node.js api v2.0: [http://mongodb.github.io/node-mongodb-native/2.0/api/index.html](http://mongodb.github.io/node-mongodb-native/2.0/api/index.html)
+  * Node.js api v2.2: [http://mongodb.github.io/node-mongodb-native/2.2/api/](http://mongodb.github.io/node-mongodb-native/2.2/api/)
 
 * NGINX: [https://nginx.org/ru/docs/](https://nginx.org/ru/docs/)
 
