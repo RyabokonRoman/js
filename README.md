@@ -25,6 +25,7 @@
 
 #### C. Git and Github:
 * How to: [https://www.udacity.com/course/how-to-use-git-and-github--ud775](https://www.udacity.com/course/how-to-use-git-and-github--ud775)
+* Learn Git: [https://www.codecademy.com/learn/learn-git](https://www.codecademy.com/learn/learn-git)
 * Github guides: [https://guides.github.com/](https://guides.github.com/)
 
 #### D. New horizons:
