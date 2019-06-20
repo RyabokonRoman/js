@@ -15,11 +15,11 @@
 #### B. Back-end intro (серверная часть, база данных, валидация и обработка запросов): 
 * Server-side Development with NodeJS: [https://www.coursera.org/learn/server-side-development/home/welcome](https://www.coursera.org/learn/server-side-development/home/welcome)
 * More NodeJS: [https://nodejs.org/en/docs/guides/](https://nodejs.org/en/docs/guides/)
-* Express framework: [http://expressjs.com/ru/](http://expressjs.com/ru/)
+* Express framework: [http://expressjs.com/](http://expressjs.com/)
 * mongoDB:
   * Getting started: [https://docs.mongodb.com/getting-started/node/](https://docs.mongodb.com/getting-started/node/)
   * Mongoose: [http://mongoosejs.com/](http://mongoosejs.com/)
-  * Node.js api v2.2: [http://mongodb.github.io/node-mongodb-native/2.2/api/](http://mongodb.github.io/node-mongodb-native/2.2/api/)
+  * Node.js api v3.2: [http://mongodb.github.io/node-mongodb-native/3.2/api/](http://mongodb.github.io/node-mongodb-native/3.2/api/)
 
 * NGINX: [https://nginx.org/ru/docs/](https://nginx.org/ru/docs/)
 
@@ -29,6 +29,7 @@
 * Github guides: [https://guides.github.com/](https://guides.github.com/)
 
 #### D. New horizons:
+* REST: [http://www.restapitutorial.com/](http://www.restapitutorial.com/)
 * JavaScript es6(2015): [http://es6-features.org/](http://es6-features.org/)
 * NodeJS with es6: [https://nodejs.org/en/docs/es6/](https://nodejs.org/en/docs/es6/)
 * Babel: [https://babeljs.io/](https://babeljs.io/)
@@ -36,6 +37,6 @@
 * FLUX: [http://blog.andrewray.me/flux-for-stupid-people/](http://blog.andrewray.me/flux-for-stupid-people/)
 * Redux: [https://egghead.io/series/getting-started-with-redux](https://egghead.io/series/getting-started-with-redux)
 * Material-UI: [http://www.material-ui.com](http://www.material-ui.com)
-* REST: [http://www.restapitutorial.com/](http://www.restapitutorial.com/)
+* 
 
 #...
