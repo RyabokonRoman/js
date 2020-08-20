@@ -1,6 +1,6 @@
 # JavaScript Full Stack
 
-#### A. Front-end intro (клиентская часть, браузер, отображение данных, отправка запросов и получение ответов сервера): 
+#### A. Front-end intro (клиентская часть, визуализация данных, организация жизненного цикла компонентов сайта, обработка событий и сценариев, организация общения с WEB-серверами): 
 * HTML, CSS, JavaScript: [https://www.coursera.org/learn/html-css-javascript/home/welcome](https://www.coursera.org/learn/html-css-javascript/home/welcome)
 * Web frameworks: [https://www.coursera.org/learn/web-frameworks/home/welcome](https://www.coursera.org/learn/web-frameworks/home/welcome)
 * HTML & CSS: [https://www.codecademy.com/learn/web](https://www.codecademy.com/learn/web) 
@@ -12,7 +12,7 @@
   * Bootstrap: [http://getbootstrap.com/](http://getbootstrap.com/)
   * Materialize: [http://materializecss.com/](http://materializecss.com/)
 
-#### B. Back-end intro (серверная часть, база данных, валидация и обработка запросов): 
+#### B. Back-end intro (серверная часть, базы данных, валидация и обработка запросов): 
 * Server-side Development with NodeJS: [https://www.coursera.org/learn/server-side-development/home/welcome](https://www.coursera.org/learn/server-side-development/home/welcome)
 * More NodeJS: [https://nodejs.org/en/docs/guides/](https://nodejs.org/en/docs/guides/)
 * Express framework: [http://expressjs.com/](http://expressjs.com/)
