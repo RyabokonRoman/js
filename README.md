@@ -5,7 +5,7 @@
 * Web frameworks: [https://www.coursera.org/learn/web-frameworks/home/welcome](https://www.coursera.org/learn/web-frameworks/home/welcome)
 * HTML & CSS: [https://www.codecademy.com/learn/web](https://www.codecademy.com/learn/web) 
 * JavaScript: [https://www.codecademy.com/learn/javascript](https://www.codecademy.com/learn/javascript)
-* jQuery: [https://www.codecademy.com/learn/jquery](https://www.codecademy.com/learn/jquery)
+* ~~jQuery: [https://www.codecademy.com/learn/jquery](https://www.codecademy.com/learn/jquery)~~
 * Make a Website: [https://www.codecademy.com/learn/make-a-website](https://www.codecademy.com/learn/make-a-website)
 * Make an Interactive Website: [https://www.codecademy.com/en/skills/make-an-interactive-website](https://www.codecademy.com/en/skills/make-an-interactive-website)
 * More styling: 
